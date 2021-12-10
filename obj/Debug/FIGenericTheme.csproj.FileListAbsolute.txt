@@ -1,0 +1,11 @@
+D:\GitHub\Projetos UNIFG\EstagioSupervisionado\FIGenericTheme\FIGenericTheme\obj\Debug\FIGenericTheme.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Projetos UNIFG\EstagioSupervisionado\FIGenericTheme\FIGenericTheme\obj\Debug\FIGenericTheme.Properties.Resources.resources
+D:\GitHub\Projetos UNIFG\EstagioSupervisionado\FIGenericTheme\FIGenericTheme\obj\Debug\FIGenericTheme.View.PrincipalForm.resources
+D:\GitHub\Projetos UNIFG\EstagioSupervisionado\FIGenericTheme\FIGenericTheme\obj\Debug\FIGenericTheme.csproj.GenerateResource.cache
+D:\GitHub\Projetos UNIFG\EstagioSupervisionado\FIGenericTheme\FIGenericTheme\obj\Debug\FIGenericTheme.csproj.CoreCompileInputs.cache
+D:\GitHub\Projetos UNIFG\EstagioSupervisionado\FIGenericTheme\FIGenericTheme\bin\Debug\FIGenericTheme.exe.config
+D:\GitHub\Projetos UNIFG\EstagioSupervisionado\FIGenericTheme\FIGenericTheme\bin\Debug\FIGenericTheme.exe
+D:\GitHub\Projetos UNIFG\EstagioSupervisionado\FIGenericTheme\FIGenericTheme\bin\Debug\FIGenericTheme.pdb
+D:\GitHub\Projetos UNIFG\EstagioSupervisionado\FIGenericTheme\FIGenericTheme\obj\Debug\FIGenericTheme.exe
+D:\GitHub\Projetos UNIFG\EstagioSupervisionado\FIGenericTheme\FIGenericTheme\obj\Debug\FIGenericTheme.pdb
+D:\GitHub\Projetos UNIFG\EstagioSupervisionado\FIGenericTheme\FIGenericTheme\obj\Debug\FIGenericTheme.csproj.AssemblyReference.cache
